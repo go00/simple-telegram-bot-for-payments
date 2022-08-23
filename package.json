@@ -1,0 +1,19 @@
+{
+  "name": "simple-telegram-bot-for-payments",
+  "version": "1.0.0",
+  "description": "NodeJS\r Python",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/go00/simple-telegram-bot-for-payments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/go00/simple-telegram-bot-for-payments/issues"
+  },
+  "homepage": "https://github.com/go00/simple-telegram-bot-for-payments#readme"
+}
